@@ -1,2 +1,2 @@
 -- List database <specific_name>
-SHOW DATABASES LIKE 'mysql';
+SHOW TABLES FROM mysql;
